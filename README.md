@@ -1,2 +1,5 @@
 # github-essentials
-\n## Description\n\nGitHub for dummies
+
+## Description
+
+GitHub for dummies
